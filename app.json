@@ -1,7 +1,7 @@
 {
   "name": "Sarkar-MD",
-  "description": "Best Whatsapp bot made by Bandaheali",
-  "logo": "https://telegra.ph/file/fd124f7e9271111c3bcc1.jpg",
+  "description": "Best Whatsapp bot made by Joshuamamboz",
+  "logo": "https://i.postimg.cc/GmRpKL8j/1717623406802.jpg",
   "keywords": [
     "whatsapp bot",
     "automation",
@@ -13,7 +13,7 @@
     "SESSION_ID": {
       "description": "Paste here session ID that you have scanned",
       "required": true,
-      "value": ""
+      "value": "Sarkarmd$RvPXQWPd"
     },
     "MODE": {
       "description": "Enter 'true' for public mode, 'no' for private mode",
@@ -23,17 +23,17 @@
     "OWNER_NUMBER": {
       "description": "Enter the owner's phone number with country code (e.g., +1234567890)",
       "required": true,
-      "value": "+923000000000"
+      "value": "+263716985350"
     },
     "OWNER_NAME": {
       "description": "Enter the owner's name",
       "required": true,
-      "value": "Bandaheali"
+      "value": "Joshuamamboz"
     },
     "AUTO_STATUS_SEEN": {
       "description": "Enter 'true' for autoview status, 'no' to disable",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "AUTO_READ": {
       "description": "Enter 'true' for autoread messages, 'no' to disable",
@@ -43,17 +43,17 @@
     "AUTO_TYPING": {
       "description": "Enter 'true' for auto typing, 'no' to disable",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "AUTO_RECORDING": {
       "description": "Enter 'true' to show recording audio, 'no' to disable",
       "required": false,
-      "value": "no"
+      "value": "false"
     },
     "ALWAYS_ONLINE": {
       "description": "Enter 'true' to show the bot as always online, 'no' to disable",
       "required": false,
-      "value": "no"
+      "value": "true"
     },
     "AUTO_BLOCK": {
       "description": "Enter 'true' to auto-block numbers starting with 212, 'no' to disable",
